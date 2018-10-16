@@ -1,0 +1,72 @@
+
+.a {
+    background-color: ;
+    border:1px solid black;
+    display:block;
+    height:75px;
+    width:100%;
+}
+
+.b {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:150px;
+    width:100%;
+}
+.c  {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:125px;
+    width:100%;
+}
+.d {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:125px;
+    width:100%;
+}
+.e {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:250px;
+    width:49%;
+}
+.f {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:250px;
+    width:49%;
+}
+.g {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:250px;
+    width:49%;
+}
+.h {
+    background-color:gray;
+    border:1px solid black;
+    display:block;
+    height:250px;
+    width:49%;
+}
+
+
+/* Desktops! */
+@media (min-width: 768px) {
+
+    section {
+        overflow:hidden;
+    }
+
+    div {
+        float:left;
+        width:300px;
+    }
+}
